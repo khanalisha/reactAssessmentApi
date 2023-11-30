@@ -1,26 +1,28 @@
 {
-  "freelancers": [
+  "users": [
     {
       "id": 1,
-      "name": "alisha",
+      "Username": "alisha",
+      "Avatar": "",
       "email": "alisha@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
-      "isBooked": false
+      "password": "password"
     },
     {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-      "isBooked": true
+      "id": 1,
+      "Username": "lisha",
+      "Avatar": "",
+      "email": "lisha@example.com",
+      "password": "lisha"
+    }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "Username": "alisha",
+      "Question": "what is java",
+      "Question Description": "Java is a progroming language",
+      "Language": "Java",
+      "Posted Date": ""
     }
   ]
 }
